@@ -11,3 +11,5 @@ generalization. Experimental results demonstrate that our approach achieves high
 accuracy in classifying video sequences into the two categories. The proposed
 system can be integrated into real-time surveillance frameworks to enable
 automated violence detection and assist security personnel in timely intervention.
+
+#Violence and Nonviolenvce datasets are available on kaggle.
