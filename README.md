@@ -1,4 +1,4 @@
-# Human-Violence-Detection-Model
+# VioLENS(Violence + Lens – highlighting video surveillance and detection)
 Automated human violence detection in video surveillance is essential for
 enhancing security and preventing crime. This study presents a deep learning-based
 approach using a Long-term Recurrent Convolutional Network (LRCN) to classify
